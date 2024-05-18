@@ -1,0 +1,14 @@
+org\example\service\a\domain\services\BookService.class
+org\example\service\a\domain\model\rules\UserStatus.class
+org\example\service\a\infra\repository\dao\BookDao.class
+org\example\service\a\domain\repositoty\IBookRepository.class
+org\example\service\a\resources\UserResource.class
+org\example\service\a\domain\model\Book.class
+org\example\service\a\domain\services\UserService.class
+org\example\service\a\DemoRestApplication.class
+org\example\service\a\domain\model\User.class
+org\example\service\a\infra\repository\dao\UserDao.class
+org\example\service\a\resources\BookResource.class
+org\example\service\a\domain\repositoty\IUserRepository.class
+org\example\service\a\health\ServiceLiveHealthCheck.class
+org\example\service\a\health\ServiceReadyHealthCheck.class

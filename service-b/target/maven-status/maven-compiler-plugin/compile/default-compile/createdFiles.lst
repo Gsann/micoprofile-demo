@@ -1,0 +1,13 @@
+org\example\service\b\infra\repository\client\BookClient.class
+org\example\service\b\infra\repository\dao\BookBorrowTxDao.class
+org\example\service\b\domain\model\BookBorrowTx.class
+org\example\service\b\domain\repository\IBookBorrowTxRepository.class
+org\example\service\b\DemoRestApplication.class
+org\example\service\b\domain\repository\IUserRepository.class
+org\example\service\b\infra\repository\client\UserClient.class
+org\example\service\b\domain\model\Book.class
+org\example\service\b\resources\BookBorrowTxResource.class
+org\example\service\b\domain\repository\IBookRepository.class
+org\example\service\b\domain\model\rules\UserStatus.class
+org\example\service\b\domain\services\BookBorrowTxService.class
+org\example\service\b\domain\model\User.class

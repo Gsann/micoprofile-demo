@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE logback>
+<configuration>
+    <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+        <filter class="ch.qos.logback.core.filter.EvaluatorFilter">
+            <evaluator>
+                <matcher>
+                    <name>InterceptorMatcher</name>
+                    <regex>LogIntercept</regex>
+                </matcher>
+
+                <expression>InterceptorMatcher.matches(formattedMessage)</expression>
+            </evaluator>
+
+            <OnMismatch>DENY</OnMismatch>
+        </filter>
+
+        <encoder>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss.SSS} %m %n</pattern>
+        </encoder>
+    </appender>
+
+    <root>
+        <appender-ref ref="CONSOLE" />
+    </root>
+</configuration>

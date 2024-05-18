@@ -1,0 +1,14 @@
+C:\Users\arabi\Documents\jetbrains-project\demo\service-a\src\main\java\org\example\service\a\DemoRestApplication.java
+C:\Users\arabi\Documents\jetbrains-project\demo\service-a\src\main\java\org\example\service\a\domain\model\User.java
+C:\Users\arabi\Documents\jetbrains-project\demo\service-a\src\main\java\org\example\service\a\domain\repositoty\IUserRepository.java
+C:\Users\arabi\Documents\jetbrains-project\demo\service-a\src\main\java\org\example\service\a\resources\BookResource.java
+C:\Users\arabi\Documents\jetbrains-project\demo\service-a\src\main\java\org\example\service\a\domain\services\BookService.java
+C:\Users\arabi\Documents\jetbrains-project\demo\service-a\src\main\java\org\example\service\a\domain\repositoty\IBookRepository.java
+C:\Users\arabi\Documents\jetbrains-project\demo\service-a\src\main\java\org\example\service\a\health\ServiceReadyHealthCheck.java
+C:\Users\arabi\Documents\jetbrains-project\demo\service-a\src\main\java\org\example\service\a\health\ServiceLiveHealthCheck.java
+C:\Users\arabi\Documents\jetbrains-project\demo\service-a\src\main\java\org\example\service\a\domain\model\rules\UserStatus.java
+C:\Users\arabi\Documents\jetbrains-project\demo\service-a\src\main\java\org\example\service\a\resources\UserResource.java
+C:\Users\arabi\Documents\jetbrains-project\demo\service-a\src\main\java\org\example\service\a\domain\model\Book.java
+C:\Users\arabi\Documents\jetbrains-project\demo\service-a\src\main\java\org\example\service\a\domain\services\UserService.java
+C:\Users\arabi\Documents\jetbrains-project\demo\service-a\src\main\java\org\example\service\a\infra\repository\dao\UserDao.java
+C:\Users\arabi\Documents\jetbrains-project\demo\service-a\src\main\java\org\example\service\a\infra\repository\dao\BookDao.java

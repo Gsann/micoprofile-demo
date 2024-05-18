@@ -1,0 +1,13 @@
+C:\Users\arabi\Documents\jetbrains-project\demo\service-b\src\main\java\org\example\service\b\domain\model\BookBorrowTx.java
+C:\Users\arabi\Documents\jetbrains-project\demo\service-b\src\main\java\org\example\service\b\domain\model\Book.java
+C:\Users\arabi\Documents\jetbrains-project\demo\service-b\src\main\java\org\example\service\b\infra\repository\client\BookClient.java
+C:\Users\arabi\Documents\jetbrains-project\demo\service-b\src\main\java\org\example\service\b\domain\repository\IBookRepository.java
+C:\Users\arabi\Documents\jetbrains-project\demo\service-b\src\main\java\org\example\service\b\domain\model\rules\UserStatus.java
+C:\Users\arabi\Documents\jetbrains-project\demo\service-b\src\main\java\org\example\service\b\domain\repository\IBookBorrowTxRepository.java
+C:\Users\arabi\Documents\jetbrains-project\demo\service-b\src\main\java\org\example\service\b\infra\repository\dao\BookBorrowTxDao.java
+C:\Users\arabi\Documents\jetbrains-project\demo\service-b\src\main\java\org\example\service\b\infra\repository\client\UserClient.java
+C:\Users\arabi\Documents\jetbrains-project\demo\service-b\src\main\java\org\example\service\b\domain\model\User.java
+C:\Users\arabi\Documents\jetbrains-project\demo\service-b\src\main\java\org\example\service\b\domain\repository\IUserRepository.java
+C:\Users\arabi\Documents\jetbrains-project\demo\service-b\src\main\java\org\example\service\b\resources\BookBorrowTxResource.java
+C:\Users\arabi\Documents\jetbrains-project\demo\service-b\src\main\java\org\example\service\b\domain\services\BookBorrowTxService.java
+C:\Users\arabi\Documents\jetbrains-project\demo\service-b\src\main\java\org\example\service\b\DemoRestApplication.java

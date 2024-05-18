@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="9d7ad6ee-6636-494a-854b-10baa7deadd6" name="Google Cloud Spanner Mapping">
+      <data-sources db="50aca98b-8aa0-4db1-83ba-19df4121208f" />
+    </mapping>
+  </component>
+</project>
